@@ -1,0 +1,38 @@
+{
+  "name": "findjobs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@material-tailwind/react": "^2.1.8",
+    "@mui/icons-material": "^6.1.9",
+    "@mui/material": "^6.1.9",
+    "@mui/styled-engine-sc": "^6.1.9",
+    "axios": "^1.7.9",
+    "findjobs": "file:",
+    "next": "^14.0.4",
+    "next-themes": "^0.4.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-player": "^2.14.1",
+    "styled-components": "^6.1.13",
+    "swiper": "^11.1.15"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16"
+  }
+}
